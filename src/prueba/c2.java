@@ -2,4 +2,5 @@ package prueba;
 
 public class c2 {
 	public void m2(){}
+	public void m1(){}
 }
